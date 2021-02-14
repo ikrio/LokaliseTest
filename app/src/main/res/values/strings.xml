@@ -5,6 +5,6 @@
     <string name="string_2">This is string 2</string>
     <string name="string_3">This is string 3</string>
     <string name="string_4">This is string 4</string>
-    <string name="string_5">This is fixed string 5</string>
-    <string name="string_6">This is string fixed 6</string>
+    <string name="string_5">This is string 5</string>
+    <string name="string_6">This is string 6</string>
 </resources>
