@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Lokalise Тест</string>
-    <string name="string_1">This is string 1 updated from code</string>
-    <string name="string_2">This is string 2 updated from code</string>
+    <string name="string_1">Это строка 1</string>
+    <string name="string_2">Это строка 2</string>
+    <string name="string_3">Это строка 3</string>
+    <string name="string_4">Это строка 4</string>
+    <string name="string_5">Это строка 5</string>
+    <string name="string_6">Это строка 6</string>
+    <string name="string_7"></string>
 </resources>
