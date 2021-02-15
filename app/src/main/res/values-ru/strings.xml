@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Lokalise</string>
-    <string name="string_1">This is string 1</string>
+    <string name="app_name">Lokalise Тест</string>
+    <string name="string_1">Это строка 1</string>
     <string name="string_2">Это строка 2</string>
     <string name="string_3">Это строка 3</string>
-    <string name="string_4">Это строка 4</string>
+    <string name="string_4">This is string 4</string>
 </resources>
